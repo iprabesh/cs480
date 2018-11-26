@@ -28,7 +28,7 @@ namespace BookStoreAPI
         public void ConfigureServices(IServiceCollection services)
         {   
             services.AddDbContext<BookContext>(opt =>
-                opt.UseInMemoryDatabase("BookList"));
+                opt.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
