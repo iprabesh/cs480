@@ -1,0 +1,31 @@
+ /*Set padding for features columns*/
+ .features-columns{
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .iconContainer{
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .features-columns-item{
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  /*Set size and padding of icons*/
+  .fa-book{
+    font-size: 70px;
+    padding-bottom: 30px;
+  }
+
+  .fa-search{
+    font-size: 70px;
+    padding-bottom: 30px;
+  }
+
+  .fa-dollar-sign{
+    font-size: 70px;
+    padding-bottom: 30px;
+  }

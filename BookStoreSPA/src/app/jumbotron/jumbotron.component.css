@@ -1,0 +1,13 @@
+.jumbotron {
+    position: relative;
+    background-color: #343a40;
+    background: url("img/books-library-students-12064.jpg") no-repeat center center;
+    background-attachment: fixed;
+    height: 77vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 15rem;
+    padding-bottom: 12rem;
+  }

@@ -1,17 +1,31 @@
-<div class="card text-white bg-dark mb-3 col-md-3">
+<div class="container">
+  <div class="row">
+<div class="card text-white text-center bg-dark col-xl-6 mx-auto">
   <div class="card-header">
     Add Book
   </div>
 <div class="form-group">
   <label for="title">Title</label>
-  <input type="text" class="form-control" #title>
+  <input type="text" class="form-control" placeholder="Enter Book Title" #title>
 </div>
 
 <div class="form-group">
   <label for="author">Author</label>
-  <input type="text" class="form-control" #author>
+  <input type="text" class="form-control" placeholder="Enter Book Author" #author>
 </div>
 
-<button type="button" class="btn btn-success" (click)="createBook(title.value, author.value)">Create</button>
+<div class="form-group">
+    <label for="ISBN">ISBN</label>
+    <input type="text" class="form-control" placeholder="Enter Book ISBN">
+  </div>
 
+  <div class="form-group">
+      <label for="Genre">Genre</label>
+      <input type="text" class="form-control" placeholder="Enter Book Genre">
+    </div>
+
+<button type="button" style="margin: 10px 10px 30px 10px;" class="btn btn-success" (click)="createBook(title.value, author.value)">Create</button>
+
+</div>
+</div>
 </div>
