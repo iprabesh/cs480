@@ -1,8 +1,9 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs//Observable'; 
 import { BookModel } from '../BookModel';
 import { tap } from 'rxjs/operators';
+import { from } from 'rxjs/observable/from';
 
 @Injectable()
 
