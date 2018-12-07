@@ -18,6 +18,9 @@ getBooks(): Observable<BookModel[]> {
     return this.http.get<BookModel[]>(this._url);
 }
 
+//copy this to make editBook method
+//change post to put
+//put child folder in book
 addBook(cTitle, cAuthor): Observable<BookModel>{
     this._newBook = new BookModel(undefined, cTitle, cAuthor);
 

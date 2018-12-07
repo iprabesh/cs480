@@ -20,5 +20,5 @@ export class BookComponent implements OnInit {
     this.bookServ.getBooks().subscribe(
         x => this.books = x
     );
-
+  }
 }
