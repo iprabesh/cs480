@@ -23,3 +23,6 @@ C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStor
 C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.AssemblyInfo.cs
 C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.dll
 C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.pdb
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.RazorAssemblyInfo.cache
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.RazorAssemblyInfo.cs
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.RazorTargetAssemblyInfo.cache

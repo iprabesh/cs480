@@ -13,6 +13,7 @@ import { NavBarComponent } from './navBar/navBar.component';
 import { JumbotronComponent } from './jumbotron/jumbotron.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { DescriptionsComponent } from './descriptions/descriptions.component';
+import { CarouselComponent } from './carousel/carousel.component';
 
 
 @NgModule({
@@ -25,7 +26,8 @@ import { DescriptionsComponent } from './descriptions/descriptions.component';
       NavBarComponent,
       JumbotronComponent,
       HomePageComponent,
-      DescriptionsComponent
+      DescriptionsComponent,
+      CarouselComponent
    ],
    imports: [
       BrowserModule,
