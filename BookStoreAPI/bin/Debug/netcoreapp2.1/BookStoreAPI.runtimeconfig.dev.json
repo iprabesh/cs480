@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\pamatya\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\pamatya\\.nuget\\packages",
+      "C:\\Users\\jagil\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jagil\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

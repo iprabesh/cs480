@@ -1,11 +1,15 @@
-<h3>Book-List</h3>
+<div class="container-fluid">
 <div class="row">
+  <div class="text-center col-xl-4 mx-auto">
+      <h3>Book-List</h3>
 <div *ngFor="let book of books">
-<div class="card text-white bg-danger mb-3 mr-3">
+<div class="card text-white text-center bg-danger mb-3 mr-3">
   <div class="card-body">
       <p>{{book.title}}</p> 
       <p>{{book.author}}</p>
     </div>
   </div>
+</div>
+</div>
 </div>
 </div>

@@ -10,6 +10,10 @@ import { UpdateBookComponent } from './updateBook/updateBook.component';
 import { SBookComponent } from './book/sBook/sBook.component';
 import { AppRoutingModule } from './/app-routing.module';
 import { NavBarComponent } from './navBar/navBar.component';
+import { JumbotronComponent } from './jumbotron/jumbotron.component';
+import { HomePageComponent } from './home-page/home-page.component';
+import { DescriptionsComponent } from './descriptions/descriptions.component';
+import { CarouselComponent } from './carousel/carousel.component';
 
 
 @NgModule({
@@ -19,7 +23,11 @@ import { NavBarComponent } from './navBar/navBar.component';
       AddBookComponent,
       UpdateBookComponent,
       SBookComponent,
-      NavBarComponent
+      NavBarComponent,
+      JumbotronComponent,
+      HomePageComponent,
+      DescriptionsComponent,
+      CarouselComponent
    ],
    imports: [
       BrowserModule,

@@ -12,3 +12,17 @@ C:\Users\pamatya\Desktop\node\BookStore\BookStoreAPI\obj\Debug\netcoreapp2.1\Boo
 C:\Users\pamatya\Desktop\node\BookStore\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.RazorTargetAssemblyInfo.cache
 C:\Users\pamatya\Desktop\node\BookStore\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.dll
 C:\Users\pamatya\Desktop\node\BookStore\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.pdb
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\bin\Debug\netcoreapp2.1\BookStoreAPI.deps.json
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\bin\Debug\netcoreapp2.1\BookStoreAPI.runtimeconfig.json
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\bin\Debug\netcoreapp2.1\BookStoreAPI.runtimeconfig.dev.json
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\bin\Debug\netcoreapp2.1\BookStoreAPI.dll
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\bin\Debug\netcoreapp2.1\BookStoreAPI.pdb
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.csprojAssemblyReference.cache
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.AssemblyInfoInputs.cache
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.AssemblyInfo.cs
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.dll
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.pdb
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.RazorAssemblyInfo.cache
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.RazorAssemblyInfo.cs
+C:\Users\jagil\Desktop\final\cs480\BookStoreAPI\obj\Debug\netcoreapp2.1\BookStoreAPI.RazorTargetAssemblyInfo.cache

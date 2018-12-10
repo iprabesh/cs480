@@ -1,0 +1,23 @@
+#caption {
+    margin: 0px 0px 300px 0px;
+}
+
+.carousel-item{
+    /* height: 700px; */
+    height: 95vh;
+}
+/* .MagicCarousel {
+    position: relative;
+    background-attachment: fixed;
+    height: 5vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 15rem;
+    padding-bottom: 12rem;
+  } */
+
+  /* .container{
+      padding: -500px 0px 0px 0px;
+  } */
